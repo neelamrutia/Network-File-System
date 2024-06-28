@@ -1,0 +1,17 @@
+127.0.0.1
+10202
+1232
+1
+neel_amrutia
+neel.txt
+ddd.txt
+./neel/
+dhdhd.txt
+random_file.txt
+nnn.txt
+./neel/nn.txt
+./neel/neel_amrutia
+./neel/neel_amrutia_1.c
+./neel/neel_amrutia_2.c
+./neel/divu/
+DONE

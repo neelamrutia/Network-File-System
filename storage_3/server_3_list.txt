@@ -1,0 +1,11 @@
+127.0.0.1
+10204
+1234
+3
+ansh_shah
+ansh.txt
+./ansh/
+./ansh/ansh_shah
+./ansh/ansh_shah_1.c
+./ansh/ansh_shah_2.c
+DONE
